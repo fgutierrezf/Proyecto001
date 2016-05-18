@@ -7,8 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.fgutierrezf.proyecto001.MainActivity"
-    android:background="#0732f4">
+    tools:context="com.example.fgutierrezf.proyecto001.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -18,8 +17,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="194dp"
-        android:id="@+id/textView"
-        android:textColor="#ffffff" />
+        android:id="@+id/textView" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -29,8 +27,7 @@
         android:id="@+id/textView2"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="38dp"
-        android:textColor="#ffffff" />
+        android:layout_marginTop="38dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -40,8 +37,7 @@
         android:id="@+id/textView3"
         android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="35dp"
-        android:textColor="#fd6900" />
+        android:layout_marginTop="35dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -50,7 +46,6 @@
         android:id="@+id/textView4"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="46dp"
-        android:textColor="#028fec" />
+        android:layout_marginTop="46dp" />
 
 </RelativeLayout>
