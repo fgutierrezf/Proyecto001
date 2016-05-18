@@ -53,4 +53,14 @@
         android:layout_marginTop="46dp"
         android:textColor="#028fec" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Modificacion Paralela"
+        android:id="@+id/textView5"
+        android:textSize="24dp"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="68dp" />
+
 </RelativeLayout>
